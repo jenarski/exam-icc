@@ -1,0 +1,39 @@
+{
+  "name": "@pprathameshmore/quotegardennpm",
+  "description": "A NPM Package for quotes. The database currently includes more than 75000 quotes.",
+  "version": "1.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pprathameshmore/QuoteGardenNPM"
+  },
+  "license": "MIT",
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sirv-cli": "^2.0.2"
+  },
+  "main": "index.js",
+  "keywords": [
+    "quotegarden",
+    "quotes",
+    "freequotes",
+    "quotesapi",
+    "quotesrandom"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/pprathameshmore"
+  },
+  "author": "Prathamesh More",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "homepage": "https://github.com/pprathameshmore/QuoteGardenNPM",
+  "bugs": {
+    "url": "https://github.com/pprathameshmore/QuoteGardenNPM/issues"
+  }
+}
