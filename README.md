@@ -1,15 +1,9 @@
-# Bootstrap starter
+# CSS Coding Challenge RESULTS
+HTML build in Boostrap 5 for easier and faster development with the given 1 hour test period.It can also develop in Tailwind CSS but same structure.
 
-Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
-
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
-
-## Download
-
+# HOW TO RUN
 ```sh
-git clone https://github.com/twbs/examples.git
-cd examples/starter/
-open index.html
+npm install
+npm start
+http://localhost:3000/ - to view the results
 ```
